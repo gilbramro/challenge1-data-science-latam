@@ -27,9 +27,8 @@ Se siguió una metodología de análisis de datos estructurada en 10 pasos clave
 5.  **⭐ Satisfacción del Cliente:** Cálculo de la **calificación promedio** y análisis de la variabilidad entre sucursales (Gráfico de Dispersión).
 6.  **🔝 Productos Destacados:** Identificación del **Top 3** de productos más y menos vendidos.
 7.  **📦 Costos Logísticos:** Determinación del **costo de envío promedio** por tienda y evaluación de su distribución (Histograma).
-8.  **🗺️ Desempeño Geográfico:** Generación de **Mapas de Calor** (usando `geopandas` y `contextily`) para visualizar ingresos y calificaciones por coordenadas geográficas.
-9.  **⚖️ Puntuación Global (KPI):** Aplicación de **normalización** de datos y definición de **ponderaciones** para calcular una puntuación final de eficiencia global.
-10. **💡 Conclusiones y Recomendaciones:** Justificación de la recomendación de venta al Sr. Juan basada en la puntuación global obtenida.
+8.  **⚖️ Puntuación Global (KPI):** Aplicación de **normalización** de datos y definición de **ponderaciones** para calcular una puntuación final de eficiencia global.
+9. **💡 Conclusiones y Recomendaciones:** Justificación de la recomendación de venta al Sr. Juan basada en la puntuación global obtenida.
 
 ---
 
@@ -38,23 +37,8 @@ Se siguió una metodología de análisis de datos estructurada en 10 pasos clave
 | Categoría | Elementos |
 | :---: | :--- |
 | **Lenguaje Base** | **Python** |
-| **Librerías Clave** | `pandas`, `numpy`, `matplotlib`, `geopandas`, `contextily` |
+| **Librerías Clave** | `pandas`, `numpy`, `matplotlib` |
 | **Entorno** | Google Colab |
-
----
-
-## 📊 Resultados y Visualizaciones Clave
-
-A continuación, se presentan algunas de las visualizaciones generadas para la toma de decisiones:
-
-### 1. Ingresos Totales por Tienda
-
-
-### 2. Desempeño Geográfico (Ejemplo: Tienda 1)
-
-
-### 3. Distribución del Costo de Envío
-
 
 ---
 
